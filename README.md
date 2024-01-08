@@ -2,4 +2,4 @@
 ## Created by 
 - Shirin
 ## Description
-- In class, we were introduced to Next.js file structure and different types of components.
+- In class, we were introduced to Next.js file structure, useStates and different types of components.
